@@ -1,0 +1,8 @@
+
+	STEPS TO RUN THE PROJECT COMPLETELY
+ 
+1) On your Terminal
+    ==>	pip3 install tensorflow keras sklearn matplotlib pandas pillow
+
+(If you get error as no module named pandas, then do the following on terminal in the current directory
+	==> pip3 install --ignore-installed --upgrade tensorflow
